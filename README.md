@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <br />
 
 <a href="https://portfolio-website-udai.vercel.app/">
@@ -23,18 +24,7 @@
 
 ### 🧰 Tech I use
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nodejs,express,vite,python,postgres,mongodb,prisma,redis,docker,aws,vercel,git,githubactions&theme=dark" height="48" />
 </p>
 
 ### 🚀 Featured Projects
@@ -42,12 +32,14 @@
   Stack: React, TypeScript, Tailwind, Express, Netlify Functions  
   <a href="https://scert.netlify.app">Live</a> • <a href="https://github.com/udai7/SCERT-Book-Management-Platform">Repo</a>
 
+- <b>Government Services Platform</b> — Find documents and info for any government service in Tripura  
+  Stack: React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Vite, Tailwind  
+  <a href="https://it-internship-project.vercel.app">Live</a> • <a href="https://github.com/udai7/It-internship-project">Repo</a>
+
 - <b>Handicrafts Purbasa</b> — Modern web experience for handicrafts discovery and showcasing  
-  Stack: (varies per repo)  
   <a href="https://github.com/udai7/handicrafts-purbasa">Repo</a>
 
 - <b>Hackathon Platform</b> — End‑to‑end platform for managing hackathons, teams, and submissions  
-  Stack: (varies per repo)  
   <a href="https://github.com/udai7/hackathon-platform">Repo</a>
 
 <details>
@@ -62,6 +54,9 @@
 <p align="left">
   <a href="https://github.com/udai7/SCERT-Book-Management-Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=udai7&repo=SCERT-Book-Management-Platform&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/udai7/It-internship-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=udai7&repo=It-internship-project&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/udai7/handicrafts-purbasa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=udai7&repo=handicrafts-purbasa&theme=tokyonight&hide_border=true" />
