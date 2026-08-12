@@ -8,8 +8,8 @@ Building **civic-tech platforms, AI-assisted tools, and the scalable web apps be
 
 <br />
 
-<a href="https://udaidas.tech">
-  <img src="https://img.shields.io/badge/Portfolio-udaidas.tech-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://udaidas.in">
+  <img src="https://img.shields.io/badge/Portfolio-udaidas.in-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://archilect.in">
   <img src="https://img.shields.io/badge/Archilect%20Studio-archilect.in-111827?style=for-the-badge&logo=rocket&logoColor=white" />
@@ -70,7 +70,7 @@ Design & engineering for teams that want to ship fast without cutting corners.
 
 Always happy to collaborate, take on freelance work, or chat about a hard problem.
 
-- 🌐 Portfolio — **[udaidas.tech](https://udaidas.tech)**
+- 🌐 Portfolio — **[udaidas.in](https://udaidas.in)**
 - 🚀 Studio — **[archilect.in](https://archilect.in)**
 - 💬 LinkedIn — [udai-das](https://www.linkedin.com/in/udai-das-9277a223b/)
 - ✉️ Email — [udaid347@gmail.com](mailto:udaid347@gmail.com)
